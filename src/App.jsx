@@ -11,6 +11,9 @@ const App = () => {
       </h1>
       <Clock />
       <Quote />
+       <h1 className="text-4xl font-extrabold text-blue-400 mb-8">
+        REFRESH AND GET YOUR QOUTE!
+      </h1>
       <SocialLinks />
       <footer className="mt-12 text-sm text-gray-500">
         © {new Date().getFullYear()} Motivation, Inc. All rights reserved.
