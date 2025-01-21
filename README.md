@@ -51,9 +51,6 @@ Run the following command to start the development server:
 npm run dev
 ``
 
-![{2D2F919F-60FF-4E3C-9F37-9B469C3B0ACA}](https://github.com/user-attachments/assets/de42d6b0-c180-433b-aa26-ec7f1632b353)
-
-`
 
 Once the server is running, open your browser and go to `http://localhost:3000` to view the app.
 
