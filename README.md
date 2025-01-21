@@ -82,8 +82,8 @@ byte-motivation/
 
 ## **Contact:**
 If you have any suggestions or questions, feel free to reach out to me:
-- **GitHub Profile:** [Your GitHub Profile](https://github.com/Kameshnic )
-- **LinkedIn Profile:** [Your LinkedIn Profile](www.linkedin.com/in/kamesh-s-b71359271 )
+- **GitHub Profile:** [GitHub Profile](https://github.com/Kameshnic )
+- **LinkedIn Profile:** [LinkedIn Profile](www.linkedin.com/in/kamesh-s-b71359271 )
 
 ---
 
