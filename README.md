@@ -1,7 +1,7 @@
 Sure! Here's a **README.md** format for your **Byte Motivation App** based on the structure you provided:
 
 ---
-
+![image](https://github.com/user-attachments/assets/9467eda0-013d-47b5-95c0-c70b37d4a4ab)
 # **Byte Motivation App**
 
 ## **Project Overview**
@@ -49,8 +49,7 @@ npm install
 Run the following command to start the development server:
 ```bash
 npm run dev
-``
-
+```
 
 Once the server is running, open your browser and go to `http://localhost:3000` to view the app.
 
@@ -81,6 +80,11 @@ byte-motivation/
 - Enabling a night mode theme for users who prefer a darker interface.
 - Implementing a notification system for daily reminders to view a new quote.
 
+## **Contact:**
+If you have any suggestions or questions, feel free to reach out to me:
+- **GitHub Profile:** [Your GitHub Profile](https://github.com/Kameshnic )
+- **LinkedIn Profile:** [Your LinkedIn Profile](www.linkedin.com/in/kamesh-s-b71359271 )
+
+---
 
 
-This **README.md** file gives a thorough description of the **Byte Motivation App**, explains how to get started with it, and provides useful links like the live demo and GitHub repository.
