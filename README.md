@@ -25,7 +25,7 @@ The **Byte Motivation App** is a modern web app designed to help users stay moti
 - **Clean UI**: Simple, minimalistic design with smooth transitions.
 
 ## **Live Demo:**
-Check out the live demo of the app here: [Byte Motivation Live Demo](https://byte-motivation.vercel.app)
+Check out the live demo of the app here: [Byte Motivation Live Demo]([https://byte-motivation.vercel.app](https://byte-motivation-f7npcbbkw-kameshnics-projects.vercel.app/))
 
 ## **GitHub Repository:**
 - **GitHub Repo**: [Byte Motivation GitHub Repository](https://github.com/your-username/byte-motivation)
