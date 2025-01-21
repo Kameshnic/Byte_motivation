@@ -80,11 +80,6 @@ byte-motivation/
 - Enabling a night mode theme for users who prefer a darker interface.
 - Implementing a notification system for daily reminders to view a new quote.
 
-## **Contact:**
-If you have any suggestions or questions, feel free to reach out to me:
-- **GitHub Profile:** [www.linkedin.com/in/kamesh-s-b71359271](https://github.com/Kameshnic ) 
-- **LinkedIn Profile:** [[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://github.com/Kameshnic ))
-
 
 
 This **README.md** file gives a thorough description of the **Byte Motivation App**, explains how to get started with it, and provides useful links like the live demo and GitHub repository.
